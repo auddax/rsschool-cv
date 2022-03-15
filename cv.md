@@ -1,24 +1,30 @@
 # Kirill Konovalov
 
-[linkedin](https://www.linkedin.com/in/kirillkonovalov) [github](https://github.com/auddax) [telegram](https://t.me/auddax)
+[linkedin](https://www.linkedin.com/in/kirillkonovalov) | [github](https://github.com/auddax) | [telegram](https://t.me/auddax) | [discord](https://discord.com/channels/auddax#6750)
 
 ***
 
 ## Summary
 
-### I’m a self-taught front-end developer with a passion for both continuous learning and for personal growth. As a person who is starting out, I am constantly seeking for new ways to expand my skill set. Previously, being a teacher, I have gained a strong ability to effective communication, conflict management and planning. Right now, I am ready to start working in a company where I will have the opportunity to apply my skills and improve them.
+I’m a self-taught front-end developer with a passion for both continuous learning and for personal growth. As a person who is starting out, I am constantly seeking for new ways to expand my skill set. Previously, being a teacher, I have gained a strong ability to effective communication, conflict management and planning. Right now, I am ready to start working in a company where I will have the opportunity to apply my skills and improve them.
 
 ***
 
 ## Skills
 
-### JavaScript(ES6) HTML CSS jQuery React Bootstrap Git
+* JavaScript(ES6)
+* HTML
+* CSS
+* jQuery
+* React
+* Bootstrap
+* Git
 
 ***
 
 ## Code
 
-### [Multiples of 3 or 5 Codewars kata](https://www.codewars.com/kata/514b92a657cdc65150000006)
+[Multiples of 3 or 5 Codewars kata](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
 ```javascript
 function solution(number){
