@@ -1,6 +1,6 @@
 a {
     text-decoration: none;
-    color: #fff;
+    color: #2C333Dff;
 }
 
 a:hover {
@@ -8,13 +8,13 @@ a:hover {
 }
 
 article {
-    margin: 0 0 10vh;
+    margin: 0 0 8vh;
 }
 
 body {
     background-color: #F4F4F4ff;
     font-family: 'Poppins', sans-serif;
-    font-size: calc(0.3vw + 14px);
+    font-size: calc(0.3vw + 12px);
 }
 
 figure {
@@ -94,6 +94,10 @@ ul {
     width: 30%;
 }
 
+.column-left a {
+    color: #fff;
+}
+
 .column-right {
     background-color: #fff;
     display: flex;
@@ -102,12 +106,16 @@ ul {
     width: 70%;
 }
 
+.column-right article:last-child {
+    margin: 0;
+}
+
 .color-light {
     background-color:#fff;
 }
 
 .font-light {
-    font-size: calc(0.3vw + 12px);
+    font-size: calc(0.3vw + 10px);
     font-weight: 200;
 }
 
@@ -116,7 +124,7 @@ ul {
 }
 
 .item {
-    margin: 0 0 3vh;
+    margin: 0 0 2vh;
 }
 
 .list-column-left li {
@@ -147,7 +155,7 @@ ul {
 }
 
 .title {
-    margin: 0 0 5vh;
+    margin: 0 0 4vh;
 }
 
 .subtitle {
@@ -169,7 +177,7 @@ ul {
 
     body {
         background-color: #fff;
-        font-size: calc(0.2vw + 14px);
+        font-size: calc(0.2vw + 12px);
         padding: 3vh 3vw;
     }
 
