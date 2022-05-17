@@ -63,7 +63,7 @@ img {
 main {
     box-shadow: 1.5rem 2.25rem 3.5rem #DADADAff;
     margin: 5% auto;
-    width: 75%;
+    max-width: 1000px;
 }
 
 p {
@@ -82,7 +82,6 @@ ul {
 
 
 .column {
-    display: flex;
     flex-direction: column;
 }
 
@@ -166,7 +165,7 @@ ul {
 
 /* Mobile version */
 
-@media (max-width: 576px) {
+@media (max-width: 767px) {
     a {
         color: #2C333Dff;
     }
@@ -186,12 +185,21 @@ ul {
         width: 100%;
     }
 
+    header {
+        margin: 0 0 5vh;
+    }
+
     .column-left {
         background-color: #fff;
         color: #2C333Dff;
         padding: 0;
         width: 100%;
     }
+
+    .column-left a {
+        color: #2C333Dff;
+    }
+    
 
     .column-right {
         padding: 0;
@@ -203,7 +211,7 @@ ul {
     }
 
     .img-profile-container {
-        margin: 0 auto 5vh;
+        margin: 5vh auto;
     }
 
     .mobile-view {
