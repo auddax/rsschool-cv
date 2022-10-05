@@ -3,8 +3,16 @@ a {
     color: #2C333Dff;
 }
 
-a:hover {
-    text-decoration: underline;
+a:not(.github) {
+    border-bottom: 1px dashed #CED4DA;
+}
+
+a:not(.github):hover {
+    border-bottom: 1px dashed #ADB5BD;
+}
+
+.column-left a:not(.github):hover {
+    border-bottom: 1px dashed #FFF;
 }
 
 article {
@@ -12,7 +20,7 @@ article {
 }
 
 body {
-    background-color: #F4F4F4ff;
+    background-color: #F4F4F4;
     font-family: 'Poppins', sans-serif;
     font-size: calc(0.3vw + 12px);
 }
