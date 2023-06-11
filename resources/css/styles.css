@@ -33,12 +33,13 @@ h1 {
     font-weight: 600;
     font-size: 4.5rem;
     line-height: 1.1;
-    margin: 0 0 0 -3px;
+    margin: 0 0 0.75rem -3px;
     padding: 0;
 }
 
 h2 {
     font-weight: 500;
+    font-size: 1.35rem;
     line-height: 1.2;
     margin: 0;
     padding: 0;
@@ -145,6 +146,7 @@ ul {
 
 .role {
     font-weight: 500;
+    margin: 0 0 0.1rem;
 }
 
 .row {
